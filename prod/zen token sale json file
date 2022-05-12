@@ -1,0 +1,47 @@
+		"saleId": "0xec341cd8eb56d6e88196693731a096cc0b09e2ec4218c2ce837d051aa3a10e90",
+		"saleName": "Fayre",
+		"hidden": false,
+		"purchaseDocumentsGenerated": false,
+		"logo": false,
+		"favicon": false,
+		"projectWebsite": false,
+		"saleDescription": "Add Zenoff tokensale to your portfolio by participating in the Private Sale. Powered by Tokensoft.",
+		"access": {},
+		"socials": {
+			"twitter": "https://twitter.com/zenovantonio",
+			"telegram": "https://t.me/azenoff"
+		},
+		"documents": [{
+			"name": "Example Document",
+			"uri": "https://example.com/document.pdf"
+		}]
+	},
+	{
+		"chainId": 4,
+		"saleManagerAddress": "0x5A38F4C89a8bEcaEd0D0d03B6E7319F31EBCE6c6",
+		"saleId": "0x220a92997fd4664990f66d66ee96bcb56fb7dc0b0c96edb2557e8f5d37cf6852",
+		"saleName": "ZEN Test Sale",
+		"hidden": false,
+		"hidden": true,
+		"purchaseDocumentsGenerated": false,
+		"logo": false,
+		"favicon": false,
+		"projectWebsite": "https://example.com",
+		"saleDescription": "Example description",
+		"access": {
+		},
+		"socials": {
+			"twitter": "https://twitter.com/tokensoftinc",
+			"discord": "https://www.discord.gg/",
+			"telegram": "https://t.me/hi"
+		},
+		"documents": [{
+				"name": "SAFT",
+				"uri": "https://example.com/saft.pdf",
+				"appendSignaturePageUri": "s3://job-queue-data/safts/annex.pdf"
+			},
+			{
+				"name": "Disclosures",
+				"uri": "https://example.com/disclosures.pdf"
+			},
+			{
